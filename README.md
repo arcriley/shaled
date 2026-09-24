@@ -1,3 +1,3 @@
 # shaled
 
-A description of this project.
+This is intended to become a streaming inference crate for Rust
